@@ -1,0 +1,87 @@
+/* Article */
+.article {
+    width: 60%;
+    margin: 0 auto;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header__text {
+    text-align: left;
+    margin: 0;
+}
+
+.header__text--big {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.header__text--small {
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+/* Article Text */
+.article__text {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Enumeration */
+.enum {
+    margin: 0;
+    padding: 0;
+}
+
+.enum__item {
+    margin-left: 18px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Section */
+.section {
+    margin-top: 40px;
+}
+
+.section__header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section__text {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Blockquote */
+.section__blockquote {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom:20px;
+    margin-left: 40px;
+}
+
+/* Figure */
+.section__figure {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.figure__img {
+    width: 50%;
+}
+
+.figure__text {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+}
